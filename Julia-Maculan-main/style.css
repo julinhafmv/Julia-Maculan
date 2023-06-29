@@ -1,0 +1,53 @@
+#banner {
+	width:100%;
+}
+
+.principal{
+	background: rgb(50,175,255);
+background: radial-gradient(circle, rgba(50,175,255,1) 0%, rgba(13,0,156,1) 100%);
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
+}
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+
+.imagem123 {
+
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background: rgb(50,175,255);
+background: radial-gradient(circle, rgba(50,175,255,1) 0%, rgba(13,0,156,1) 100%);
+}
